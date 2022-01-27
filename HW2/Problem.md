@@ -18,7 +18,11 @@
 **Полезные статьи по теме:**
 
 [https://theanalyst.com/eu/2021/09/expected-pass-completion-explained/](https://theanalyst.com/eu/2021/09/expected-pass-completion-explained/)
+
 [https://www.sports.ru/tribuna/blogs/fitpredict/2870075.html](https://www.sports.ru/tribuna/blogs/fitpredict/2870075.html)
+
 [https://www.americansocceranalysis.com/home/2018/4/19/an-updated-expected-passing-model](https://www.americansocceranalysis.com/home/2018/4/19/an-updated-expected-passing-model)
+
 [https://scouting.futbolakademi.net/expected-pass-xp-and-value/](https://scouting.futbolakademi.net/expected-pass-xp-and-value/)
+
 [https://statsbomb.com/2017/09/under-pressure/](https://statsbomb.com/2017/09/under-pressure/)

@@ -6,4 +6,5 @@
 
 ### ***Домашнее задание №2***
 **Описание:** построение модели, предсказывающей вероятность прохождение паса.
+
 [**Expected Pass Completion (xP)**](https://github.com/adarunova/Football-Data-Analysis/blob/main/HW2/)

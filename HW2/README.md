@@ -25,4 +25,8 @@
 
 [https://scouting.futbolakademi.net/expected-pass-xp-and-value/](https://scouting.futbolakademi.net/expected-pass-xp-and-value/)
 
+<<<<<<< HEAD
 [https://statsbomb.com/2017/09/under-pressure/](https://statsbomb.com/2017/09/under-pressure/)
+=======
+[https://statsbomb.com/2017/09/under-pressure/](https://statsbomb.com/2017/09/under-pressure/)
+>>>>>>> 28fd96ae429622d7245c3cf64f3a3f0034d7c706
